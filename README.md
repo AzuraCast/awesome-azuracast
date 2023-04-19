@@ -1,2 +1,42 @@
-# awesome-azuracast
+# Awesome AzuraCast
 A curated list of tools, scripts and supporting software to help improve your AzuraCast broadcasting experience.
+
+## First-Party Tools
+Tools maintained by the AzuraCast team directly.
+
+- **[AzuraCast](https://github.com/AzuraCast/AzuraCast)** (FOSS, AGPL 3): A self-hosted web radio broadcasting suite. Includes an AutoDJ based on Liquidsoap, a broadcasting frontend based on Icecast, and a web UI to manage media, streaming, metrics and more.
+
+- **[AzuraRelay](https://github.com/AzuraCast/AzuraRelay)** (FOSS, Apache 2): A drop-in tool to relay streams from a "parent" AzuraCast installation. Use it to add additional listener capacity to stations or offer streams that are geographically closer to listeners.
+
+## Broadcasting Tools
+Recommended tools to use when broadcasting to AzuraCast. See our [Guide to Streaming Software](https://docs.azuracast.com/en/user-guide/streaming-software) for additional information about streaming tools.
+
+- **[Mixxx](https://www.mixxx.org/)** (FOSS): A powerful cross-platform tool for DJs with built-in Icecast broadcasting support.
+
+- **[Broadcast Using This Tool (BUTT)](https://danielnoethen.de/butt/)** (FOSS): A lightweight, multi-OS streaming tool with support for Icecast or Shoutcast.
+
+## Communications Tools
+Tools to help you communicate and engage with your audience.
+
+- **[Azuri](https://github.com/TwixGamer00/azuri)** (FOSS, Apache 2): A community-supported Discord bot that lets you control your station from inside your Discord community and listen to broadcasts inside Discord chat channels.
+
+## Station Discovery
+Web sites and tools to promote your own station or to find others you may enjoy.
+
+- **[RadioBrowser](https://www.radio-browser.info/owners)**: An open-source community-driven database of Internet radio stations around the world.
+
+- **[Xiph's Icecast Directory](http://dir.xiph.org/)**: The default "Yellow Pages" (YP) directory that Icecast stations report to.
+
+## Audio Post-Processing Tools
+Tools to help you add compression, equalization and other refinements to your broadcasted signal.
+
+- **[master_me](https://github.com/trummerschlunk/master_me)** (FOSS): An automatic mastering plugin with built-in presets for common broadcast destinations. Supported directly inside AzuraCast since April 2023.
+
+- **[mkpascal's Liquidsoap Scripts](https://github.com/mkpascal/mk_liquidsoap_processing)** (FOSS): A comprehensive set of processing steps that can be added into Liquidsoap advanced code.
+
+- **[StereoTool](https://www.thimeo.com/stereo-tool/)** (Proprietary): A licensed software audio processor with widespread use in both the terrestrial and Internet radio spaces. Numerous presets are available to fine-tune broadcast signals. Support for Stereo Tool is included in AzuraCast, but the software is proprietary and must be installed by the system administrator.
+
+## Miscellaneous Utilities
+Other tools or add-on scripts to enhance your AzuraCast experience.
+
+- **[Video Stream](https://gist.github.com/BusterNeece/5dbfb4dbc1846055c9ab07a7c685899c)** (FOSS): An example snippet of advanced Liquidsoap code that allows you to convert your audio-only radio station into one with a looping video and live "Now Playing" metadata embedded into the video stream. A great starting point for running a YouTube 24/7 radio station, for example.
