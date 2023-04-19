@@ -6,7 +6,7 @@ A curated list of tools, scripts and supporting software to help improve your Az
 - [Communications Tools](#communications-tools)
 - [Station Discovery](#station-discovery)
 - [Audio Post-Processing Tools](#audio-post-processing-tools)
-- [Miscellaneous Utilities](#micellaneous-utilities)
+- [Miscellaneous Utilities](#miscellaneous-utilities)
 
 ## First-Party Tools
 Tools maintained by the AzuraCast team directly.
