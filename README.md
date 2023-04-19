@@ -1,6 +1,13 @@
 # Awesome AzuraCast
 A curated list of tools, scripts and supporting software to help improve your AzuraCast broadcasting experience.
 
+- [First-Party Tools](#first-party-tools)
+- [Broadcasting Tools](#broadcasting-tools)
+- [Communications Tools](#communications-tools)
+- [Station Discovery](#station-discovery)
+- [Audio Post-Processing Tools](#audio-post-processing-tools)
+- [Miscellaneous Utilities](#micellaneous-utilities)
+
 ## First-Party Tools
 Tools maintained by the AzuraCast team directly.
 
