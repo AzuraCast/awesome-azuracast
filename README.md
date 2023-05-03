@@ -32,12 +32,16 @@ Recommended tools to use when broadcasting to AzuraCast. See our [Guide to Strea
 
 - **[Broadcast Using This Tool (BUTT)](https://danielnoethen.de/butt/)** (FOSS): A lightweight, multi-OS streaming tool with support for Icecast or Shoutcast.
 
+- **[iziCast for iOS](https://apps.apple.com/us/app/izicast/id1462571191)** (Proprietary): An AzuraCast-compatible broadcasting tool specifically for iPads and iPhones.
+
 ## Communications Tools
 Tools to help you communicate and engage with your audience.
 
 - **[Azuri](https://github.com/TwixGamer00/azuri)** (FOSS, Apache 2): A community-supported Discord bot that lets you control your station from inside your Discord community and listen to broadcasts inside Discord chat channels.
 
 - **[Pro.radio](https://pro.radio/)** (Proprietary): A set of paid Wordpress-based tools to help power your radio station's public presence. Supports AzuraCast directly.
+
+- **[Now Playing for AzuraCast Wordpress Plugin](https://wordpress.org/plugins/now-playing-widget-fuer-azuracast-stationen/)** (FOSS): A Wordpress plugin that adds Now Playing data to your Wordpress site. (May no longer be maintained)
 
 ## Station Discovery
 Web sites and tools to promote your own station or to find others you may enjoy.
