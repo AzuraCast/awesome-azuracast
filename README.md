@@ -2,6 +2,7 @@
 A curated list of tools, scripts and supporting software to help improve your AzuraCast broadcasting experience.
 
 - [First-Party Tools](#first-party-tools)
+- [AzuraCast Add-Ons](#azuracast-add-ons)
 - [Broadcasting Tools](#broadcasting-tools)
 - [Communications Tools](#communications-tools)
 - [Station Discovery](#station-discovery)
@@ -15,6 +16,15 @@ Tools maintained by the AzuraCast team directly.
 
 - **[AzuraRelay](https://github.com/AzuraCast/AzuraRelay)** (FOSS, Apache 2): A drop-in tool to relay streams from a "parent" AzuraCast installation. Use it to add additional listener capacity to stations or offer streams that are geographically closer to listeners.
 
+## AzuraCast Add-Ons
+Proprietary software that you can download and incorporate into AzuraCast.
+
+- **[Shoutcast](https://radiomanager.shoutcast.com/RMO/user/your-plan/your-plan)** (Proprietary): An alternative broadcasting frontend for listeners to connect to. Popular, but limited in its free offering.
+
+- **[Stereo Tool](https://www.thimeo.com/stereo-tool/download/)** (Proprietary): A popular audio mastering tool that gives your station the compressed, equalized feel of FM radio stations. A proprietary alternative to the `master_me` tool we ship in newer versions of AzuraCast.
+
+- **[Maxmind GeoIP](https://www.maxmind.com/en/geoip2-country-database)** (Proprietary): An alternative to our built-in IP geolocation database that is considered more accurate in some situations. Allows you to approximate the location of your listeners and visualize them on a map.
+
 ## Broadcasting Tools
 Recommended tools to use when broadcasting to AzuraCast. See our [Guide to Streaming Software](https://docs.azuracast.com/en/user-guide/streaming-software) for additional information about streaming tools.
 
@@ -26,6 +36,8 @@ Recommended tools to use when broadcasting to AzuraCast. See our [Guide to Strea
 Tools to help you communicate and engage with your audience.
 
 - **[Azuri](https://github.com/TwixGamer00/azuri)** (FOSS, Apache 2): A community-supported Discord bot that lets you control your station from inside your Discord community and listen to broadcasts inside Discord chat channels.
+
+- **[Pro.radio](https://pro.radio/)** (Proprietary): A set of paid Wordpress-based tools to help power your radio station's public presence. Supports AzuraCast directly.
 
 ## Station Discovery
 Web sites and tools to promote your own station or to find others you may enjoy.
