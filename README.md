@@ -7,6 +7,7 @@ A curated list of tools, scripts and supporting software to help improve your Az
 - [Communications Tools](#communications-tools)
 - [Station Discovery](#station-discovery)
 - [Audio Post-Processing Tools](#audio-post-processing-tools)
+- [Commercial Operations](#commercial-operations)
 - [Miscellaneous Utilities](#miscellaneous-utilities)
 
 ## First-Party Tools
@@ -58,6 +59,11 @@ Tools to help you add compression, equalization and other refinements to your br
 - **[mkpascal's Liquidsoap Scripts](https://github.com/mkpascal/mk_liquidsoap_processing)** (FOSS): A comprehensive set of processing steps that can be added into Liquidsoap advanced code.
 
 - **[StereoTool](https://www.thimeo.com/stereo-tool/)** (Proprietary): A licensed software audio processor with widespread use in both the terrestrial and Internet radio spaces. Numerous presets are available to fine-tune broadcast signals. Support for Stereo Tool is included in AzuraCast, but the software is proprietary and must be installed by the system administrator.
+
+## Commercial Operations
+Resources specifically for commercial operators or resellers.
+
+- **[AzuraCast WHMCS Module](https://git.tidynode.co.uk/AndyRixon/azuracast-whmcs-module)** (FOSS): A community-maintained WHMCS module for AzuraCast provisioning.
 
 ## Miscellaneous Utilities
 Other tools or add-on scripts to enhance your AzuraCast experience.
