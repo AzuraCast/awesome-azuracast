@@ -69,3 +69,5 @@ Resources specifically for commercial operators or resellers.
 Other tools or add-on scripts to enhance your AzuraCast experience.
 
 - **[Video Stream](https://gist.github.com/BusterNeece/5dbfb4dbc1846055c9ab07a7c685899c)** (FOSS): An example snippet of advanced Liquidsoap code that allows you to convert your audio-only radio station into one with a looping video and live "Now Playing" metadata embedded into the video stream. A great starting point for running a YouTube 24/7 radio station, for example.
+
+- **[XMLTV/EPG Guide](https://github.com/Moonbase59/azuracast_xmltv)** (FOSS): A tool to create electronic program guides to allow software to browse your AzuraCast program schedule using a standardized TV guide format.
