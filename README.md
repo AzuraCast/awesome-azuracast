@@ -33,7 +33,7 @@ Recommended tools to use when broadcasting to AzuraCast. See our [Guide to Strea
 
 - **[Broadcast Using This Tool (BUTT)](https://danielnoethen.de/butt/)** (FOSS): A lightweight, multi-OS streaming tool with support for Icecast or Shoutcast.
 
-- **[iziCast for iOS](https://apps.apple.com/us/app/izicast/id1462571191)** (Proprietary): An AzuraCast-compatible broadcasting tool specifically for iPads and iPhones.
+- **[iziCast for iOS](https://apps.apple.com/us/app/izicast/id1462571191)** (Proprietary): An AzuraCast-compatible broadcasting tool specifically for iPads and iPhones. (May no longer be maintained)
 
 ## Communications Tools
 Tools to help you communicate and engage with your audience.
