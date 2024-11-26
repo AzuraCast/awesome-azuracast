@@ -44,6 +44,8 @@ Tools to help you communicate and engage with your audience.
 
 - **[Now Playing for AzuraCast Wordpress Plugin](https://wordpress.org/plugins/now-playing-widget-fuer-azuracast-stationen/)** (FOSS): A Wordpress plugin that adds Now Playing data to your Wordpress site. (May no longer be maintained)
 
+- **[AzuraCast Player](https://github.com/PeWe79/AzuraCast-Player)** (FOSS): A full-featured interactive web player that uses AzuraCast's API to display rich metadata for multiple stations in a single interface.
+
 ## Station Discovery
 Web sites and tools to promote your own station or to find others you may enjoy.
 
